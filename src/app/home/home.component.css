@@ -269,6 +269,7 @@ a:focus {
 .hero {
     position: relative;
     width: 100%;
+    background-color: #E3CDC1#F6E6CB;
     margin-bottom: 45px;
     padding: 90px 0;
     background-position: center;
